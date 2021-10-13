@@ -50,6 +50,8 @@ sections:
         image_align: center
       - image_alt: Logo 7
         image_align: center
+        image: >-
+          images/huffandpuffers-logo-blue-transparent-background_600x-5c4d7873.png
       - image_alt: Logo 8
         image_align: center
     grid_cols: four

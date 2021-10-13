@@ -42,7 +42,7 @@ sections:
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: right
-        image_position: right
+        image_position: top
       - image: images/logo-5.svg
         image_alt: Logo 5
         image_align: center

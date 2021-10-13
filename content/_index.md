@@ -54,7 +54,7 @@ sections:
         image_position: right
       - image_alt: Logo 8
         image_align: center
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false

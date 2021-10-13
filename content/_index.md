@@ -60,6 +60,7 @@ sections:
     background_image_opacity: 0
     padding_top: small
     padding_bottom: small
+    background_color: primary
   - type: features_section
     title: My services
     subtitle: What I do

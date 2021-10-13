@@ -62,6 +62,7 @@ sections:
     background_image_position: center center
     background_image_opacity: 0
     padding_top: small
+    padding_bottom: small
   - type: features_section
     title: My services
     subtitle: What I do

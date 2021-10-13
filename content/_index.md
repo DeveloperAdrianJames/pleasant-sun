@@ -27,7 +27,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Trusted by Companies Big and Small
-    subtitle: Wh
+    subtitle: Who
     align: center
     grid_items:
       - image: images/huffandpuffers-logo-blue-transparent-background_600x.png

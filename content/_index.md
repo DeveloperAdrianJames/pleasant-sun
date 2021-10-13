@@ -37,8 +37,7 @@ sections:
           images/Puffco_logo_2x_c3f14055-d4d4-4fba-a2fa-752c15c40441_120x@2x-2425e9b6.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo_410x.png
-        image_alt: Logo 3
+      - image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
         image_alt: Logo 4

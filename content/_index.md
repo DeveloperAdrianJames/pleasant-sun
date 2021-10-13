@@ -50,6 +50,7 @@ sections:
         image_align: center
       - image_alt: Logo 7
         image_align: center
+        image: images/Vapor-Boss_280x@2x.jpg
       - image_alt: Logo 8
         image_align: center
     grid_cols: four

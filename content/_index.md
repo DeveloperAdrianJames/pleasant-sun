@@ -59,6 +59,7 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     background_image_size: auto
+    background_image_position: center center
   - type: features_section
     title: My services
     subtitle: What I do

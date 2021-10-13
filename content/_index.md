@@ -60,7 +60,7 @@ sections:
     enable_cards: false
     background_image_size: auto
     background_image_position: center center
-    background_image_opacity: 10
+    background_image_opacity: 0
   - type: features_section
     title: My services
     subtitle: What I do

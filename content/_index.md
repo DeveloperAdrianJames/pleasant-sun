@@ -94,6 +94,7 @@ sections:
         title: daj-logo(6)
       - image_alt: Logo 8
         image_align: center
+        title: daj-logo(7)
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small

@@ -36,6 +36,7 @@ sections:
       - image_alt: Logo 3
         image_align: center
         image: images/Devloper Adrian James-logos-2a926188.jpeg
+        title: daj-logo(2)
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left

@@ -7,7 +7,7 @@ sections:
       design.
     subtitle: >-
       I will handle website design and production, social media accounts and
-      digital advertisements for you, at an affordable price.
+      digital advertisements.
     actions:
       - label: Contact Me
         url: /contact

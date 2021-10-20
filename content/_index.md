@@ -1,25 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    subtitle: >-
-      I will handle website design and production, social media accounts and
-      digital advertisements.
-    actions: []
-    image_alt: A smiling woman
-    media_position: left
-    media_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: none
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 8
-    background_image_position: left bottom
-    content: >
-      ###### **Hi, I'm DAJ. I assist individuals with business process system
-      analysis & design.**
   - type: grid_section
     title: '"Connections changes the nature of an object."'
     align: center

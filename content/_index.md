@@ -17,6 +17,9 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     background_image_position: left bottom
+    content: >
+      ###### **Hi, I'm DAJ. I assist individuals with business process system
+      analysis & design.**
   - type: grid_section
     title: '"Connections changes the nature of an object."'
     align: center

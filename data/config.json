@@ -28,7 +28,7 @@
             },
             {
                 "label": "Storming",
-                "url": "/blog",
+                "url": "/storming",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",

@@ -60,6 +60,7 @@ sections:
     padding_top: small
     padding_bottom: small
     background_color: none
+    subtitle: Slogan
   - type: features_section
     title: My services
     subtitle: What I do

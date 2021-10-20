@@ -92,7 +92,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Support
+      - title: Supporting
         subtitle: Education | Health | Finance
         content: >-
           Managing an online business is a full-time job. I will make sure your

@@ -8,11 +8,7 @@ sections:
     subtitle: >-
       I will handle website design and production, social media accounts and
       digital advertisements.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
-        has_icon: false
+    actions: []
     image_alt: A smiling woman
     media_position: right
     media_width: fifty

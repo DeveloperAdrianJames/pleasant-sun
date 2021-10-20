@@ -1,5 +1,5 @@
 ---
-title: HEALTH
+title: EDUCATION
 seo:
   title: ''
   description: ''

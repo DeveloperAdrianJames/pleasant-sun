@@ -44,6 +44,7 @@ sections:
       - image_alt: Logo 7
         image_align: center
         image_position: right
+        image: images/Devloper Adrian James-logos-f3fd5148.jpeg
       - image_alt: Logo 8
         image_align: center
     grid_cols: two

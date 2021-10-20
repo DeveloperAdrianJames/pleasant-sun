@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      Hi, I'm DeveloperAdrianJames. I assist businesses with business process
-      system analysis & design.
+      Hi, I'm DAJ. I assist businesses with business process system analysis &
+      design.
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.

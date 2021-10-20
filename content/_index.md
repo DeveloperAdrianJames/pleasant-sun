@@ -20,7 +20,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Connections changes the nature of an object.
+    title: '"Connections changes the nature of an object."'
     align: center
     grid_items:
       - image_alt: daj-logo(1)

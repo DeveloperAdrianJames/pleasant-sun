@@ -12,7 +12,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Storming-Norming-Performing",
+                "label": "SNP",
                 "url": "/storming-norming-performing",
                 "style": "link",
                 "has_icon": false,

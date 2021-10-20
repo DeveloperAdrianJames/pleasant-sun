@@ -57,7 +57,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/Devloper Adrian James-logos-04593550.jpeg"
     },
     "footer": {
         "logo_alt": "DAJ Logo",

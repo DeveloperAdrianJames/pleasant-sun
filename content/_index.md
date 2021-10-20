@@ -781,6 +781,7 @@ sections:
     background_image_size: cover
     background_image_position: left bottom
     background_image_repeat: no-repeat
+    background_image: images/Section_Background(2) (1).png
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme

@@ -686,6 +686,7 @@ sections:
 
 
       ...
+    title: .
   - type: grid_section
     title: '"Connections changes the nature of an object."'
     align: center

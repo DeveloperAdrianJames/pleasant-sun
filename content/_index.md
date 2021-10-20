@@ -34,6 +34,7 @@ sections:
         image: images/Devloper Adrian James-logos-33ab7c65.jpeg
       - image_alt: Logo 3
         image_align: center
+        image: images/Devloper Adrian James-logos-2a926188.jpeg
       - image_alt: Logo 4
         image_align: right
         image_position: top

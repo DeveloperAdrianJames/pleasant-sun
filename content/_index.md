@@ -91,13 +91,7 @@ sections:
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
           ecommerce platform.
-        actions:
-          - label: Learn More
-            url: /about
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty

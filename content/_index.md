@@ -31,6 +31,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/Devloper Adrian James (1)-9395e33f.png
   - type: grid_section
     title: '"Connections changes the nature of an object."'
     align: center

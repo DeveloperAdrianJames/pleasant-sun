@@ -64,7 +64,6 @@ sections:
         image_align: center
         image_position: right
         image: images/Devloper Adrian James-logos-f3fd5148.jpeg
-        title: daj-logo(6)
       - image_alt: daj-logo(7)
         image_align: center
     grid_cols: three

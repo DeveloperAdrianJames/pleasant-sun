@@ -35,8 +35,7 @@ sections:
       - image_alt: daj-logo(2)
         image_align: center
         image: images/Devloper Adrian James-logos-2a926188.jpeg
-      - title: daj-logo(3)
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left

@@ -780,6 +780,7 @@ sections:
     background_color: none
     background_image: images/Section_Background(2).png
     background_image_size: cover
+    background_image_position: left bottom
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme

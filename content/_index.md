@@ -32,7 +32,7 @@ sections:
       - image_alt: daj-logo(1)
         image_align: center
         image: images/Devloper Adrian James-logos-33ab7c65.jpeg
-      - image_alt: Logo 3
+      - image_alt: daj-logo(2)
         image_align: center
         image: images/Devloper Adrian James-logos-2a926188.jpeg
       - title: daj-logo(3)

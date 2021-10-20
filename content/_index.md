@@ -13,7 +13,6 @@ sections:
         url: /contact
         style: primary
         has_icon: false
-    image: images/hero.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty

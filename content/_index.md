@@ -93,7 +93,7 @@ sections:
         image: images/Devloper Adrian James-logos-f3fd5148.jpeg
       - image_alt: Logo 8
         image_align: center
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false

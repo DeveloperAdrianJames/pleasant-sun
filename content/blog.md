@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: STORMING
 seo:
   title: ''
   description: ''

@@ -10,7 +10,7 @@ sections:
       digital advertisements.
     actions: []
     image_alt: A smiling woman
-    media_position: right
+    media_position: left
     media_width: fourty
     align: left
     padding_top: large

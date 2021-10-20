@@ -60,6 +60,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Devloper Adrian James-logos-ec4a26f8.jpeg
       - image_alt: Logo 5
         image_align: center
         image: images/Devloper Adrian James-logos-53b1137e.jpeg

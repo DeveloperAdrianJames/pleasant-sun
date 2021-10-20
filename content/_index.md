@@ -709,7 +709,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Devloper Adrian James-logos-ec4a26f8.jpeg
+        image: images/Devloper Adrian James-logos_black-b23ab008.png
       - image_alt: daj-logo(4)
         image_align: center
         image: images/Devloper Adrian James-logos-e9ee166a.jpeg

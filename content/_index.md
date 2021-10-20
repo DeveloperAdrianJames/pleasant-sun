@@ -712,7 +712,7 @@ sections:
         image: images/Devloper Adrian James-logos-ec4a26f8.jpeg
       - image_alt: daj-logo(4)
         image_align: center
-        image: images/Devloper Adrian James-logos-53b1137e.jpeg
+        image: images/Devloper Adrian James-logos-e9ee166a.jpeg
       - title_align: left
         content_align: left
         actions: []

@@ -2,9 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      Hi, I'm DAJ. I assist individuals with business process system analysis &
-      design.
     subtitle: >-
       I will handle website design and production, social media accounts and
       digital advertisements.

@@ -82,7 +82,6 @@ sections:
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
         actions: []
-        image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty

@@ -17,13 +17,13 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             },
             {

@@ -777,7 +777,7 @@ sections:
         media_width: sixty
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
     background_image: images/Section_Background(2).png
 seo:
   title: Stackbit Personal Theme

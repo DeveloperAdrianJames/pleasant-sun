@@ -698,7 +698,7 @@ sections:
         image: images/Devloper Adrian James-logos_black.png
       - image_alt: daj-logo(2)
         image_align: center
-        image: images/Devloper Adrian James-logos-2a926188.jpeg
+        image: images/Devloper Adrian James-logos-c3bc46e9.jpeg
       - title_align: left
         content_align: left
         actions: []

@@ -71,6 +71,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Devloper Adrian James-logos-f82c9e33.jpeg
       - image_alt: Logo 7
         image_align: center
         image_position: right

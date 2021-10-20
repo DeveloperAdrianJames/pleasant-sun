@@ -6,8 +6,8 @@ sections:
       Hi, I'm DAJ. I assist individuals with business process system analysis &
       design.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will handle website design and production, social media accounts and
+      digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact

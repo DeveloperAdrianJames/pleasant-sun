@@ -58,7 +58,6 @@ sections:
     padding_bottom: small
     background_color: none
     subtitle: Slogan
-    background_image: images/Devloper Adrian James-logos-ab6b0701.jpeg
   - type: features_section
     title: My services
     subtitle: What I do

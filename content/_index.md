@@ -29,7 +29,7 @@ sections:
     title: Connections changes the nature of an object.
     align: center
     grid_items:
-      - image_alt: Logo 1
+      - image_alt: daj-logo(1)
         image_align: center
         image: images/Devloper Adrian James-logos-33ab7c65.jpeg
       - image_alt: Logo 3

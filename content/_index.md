@@ -117,7 +117,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: Learn More
-            url: /faq
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right

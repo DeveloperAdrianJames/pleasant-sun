@@ -72,7 +72,7 @@ sections:
     background_color: none
     subtitle: Slogan
   - type: features_section
-    title: My services
+    title: CORE SUPPORT CONTROL
     subtitle: What I do
     features:
       - title: Content Creation

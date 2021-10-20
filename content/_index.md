@@ -502,7 +502,7 @@ sections:
       .
 
       .
-    title: .
+    title:
     subtitle: .
   - type: grid_section
     title: '"Connections changes the nature of an object."'

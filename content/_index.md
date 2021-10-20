@@ -76,7 +76,7 @@ sections:
     subtitle: What I do
     features:
       - title: Core
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: Health | Education
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,

@@ -22,6 +22,16 @@
                 "no_follow": false
             },
             {
+                "label": "EDUCATION",
+                "url": "/education",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "HEALTH",
                 "url": "/health",
                 "style": "link",
@@ -45,16 +55,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link"
-            },
-            {
-                "label": "EDUCATION",
-                "url": "/education",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": false,

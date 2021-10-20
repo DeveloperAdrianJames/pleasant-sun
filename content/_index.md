@@ -75,7 +75,7 @@ sections:
     title: CORE SUPPORT CONTROL
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Core
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from

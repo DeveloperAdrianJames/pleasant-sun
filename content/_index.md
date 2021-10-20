@@ -98,7 +98,7 @@ sections:
     grid_gap_vert: small
     enable_cards: false
     background_image_size: auto
-    background_image_position: center center
+    background_image_position: center top
     background_image_opacity: 0
     padding_top: small
     padding_bottom: small

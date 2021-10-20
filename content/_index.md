@@ -778,6 +778,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    background_image: images/Section_Background(2).png
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme

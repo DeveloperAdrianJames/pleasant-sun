@@ -38,8 +38,7 @@ sections:
       - image_alt: Logo 4
         image_align: right
         image_position: top
-      - image: images/logo_410x.png
-        image_alt: Logo 5
+      - image_alt: Logo 5
         image_align: center
       - image_alt: Logo 7
         image_align: center

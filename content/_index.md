@@ -40,6 +40,7 @@ sections:
         image_position: top
       - image_alt: Logo 5
         image_align: center
+        image: images/Devloper Adrian James-logos-53b1137e.jpeg
       - image_alt: Logo 7
         image_align: center
         image_position: right
